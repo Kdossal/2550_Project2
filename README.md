@@ -9,11 +9,6 @@ This project is a collaborative effort with Dr. Chris Schmid from the Biostatist
 
 `project2.qmd:` File used to produce report file.
 
-### Data
-`project2.csv:` Data used in this project report.
-
-`project2_codebook.xlsx:` Data Codebook descriping variables and descriptions.
-
 ### Images
 Collection of images used in the report.
 
